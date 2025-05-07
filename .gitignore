@@ -11,6 +11,7 @@
 *.exe
 
 # Ignore any file with no extension (typical executables)
+*.
 */
 
 
