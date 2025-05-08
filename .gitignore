@@ -11,10 +11,6 @@
 *.so
 *.exe
 
-# Ignore any file with no extension (typical executables)
-*.
-*/
-
 
 # Ignore editor-specific files (for VSCode)
 .vscode/
