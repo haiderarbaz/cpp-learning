@@ -12,6 +12,7 @@ int main(){
     cout << "Float: " << f << endl;
     cout << "Double: " << d << endl;
 
+    // if you want to see full precision use (cout << fixed << setprecision(n) << endl;)
     cout << fixed << setprecision(14) << endl;
     cout << "Float: " << f << endl;
     cout << "Double: " << d << endl;
