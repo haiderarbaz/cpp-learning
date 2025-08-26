@@ -23,3 +23,19 @@ Modify Tea Prices Create a program where the user inputs a base price for tea. U
 Favorite Tea Input Write a program that takes the user’s favorite tea as input using getline and also asks how many cups of tea they want using cin. Display the result in a fun message.
 
 > Hint: Combine cin and getline carefully to avoid input issues.
+
+## Challenge 4:
+
+---
+
+What will be the output of following code?
+
+#include<iostream>
+using namespace std;
+int main ()
+{
+int cin;
+cin >> cin;
+cout << "cin" << cin;
+return 0;
+}
